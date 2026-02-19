@@ -10,20 +10,3 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 * Consistently solve and analyze algorithmic problems.
 * Write efficient C++ code leveraging the Standard Template Library (STL).
 * Master core DSA concepts ranging from basic arrays to complex graph traversals.
-
----
-
-## 📂 Repository Structure
-
-Solutions are organized by their primary data structure or algorithmic paradigm to make navigation easy.
-
-```text
-├── Arrays
-├── Binary_Search
-├── Dynamic_Programming
-├── Graphs
-├── Hash_Tables
-├── Linked_Lists
-├── Sliding_Window
-├── Trees
-└── Two_Pointers
