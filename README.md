@@ -16,6 +16,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
