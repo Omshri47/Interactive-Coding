@@ -50,3 +50,23 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omshri47/Interactive-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
+## 📊 Progress Tracker
+
+| Difficulty | Solved |
+| :--- | :---: |
+| 🟢 Easy | 0 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+| **Total** | **0** |
+
+---
+
+## 👨‍💻 A Bit About Me
+
+While I use C++ heavily for competitive programming and DSA, I am a versatile developer with a strong background in data-driven solutions and software engineering.
+
+* **Experience:** Completed a Data Science Internship at Amdocs Technology, focusing on cryptocurrency forecasting and data analysis.
+* **Hackathons:** Active participant and builder in events like the UIDAI Hackathon (analyzing migration patterns) and the Databiz Hackathon (predicting socio-economic trends).
+* **Tech Stack & Interests:** * **Languages/Frameworks:** C++, Python, SQL, Flask
+  * **Domains:** Data Science, Machine Learning, Database Management Systems (DBMS), and Computer Architecture.
+  * **Methodologies:** Design Thinking & System Design.
