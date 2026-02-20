@@ -28,4 +28,16 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omshri47/Interactive-Coding/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omshri47/Interactive-Coding/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omshri47/Interactive-Coding/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Omshri47/Interactive-Coding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
