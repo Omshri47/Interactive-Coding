@@ -50,7 +50,8 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omshri47/Interactive-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
-## 📊 Progress Tracker
+
+# 📊 Progress Tracker
 
 | Difficulty | Solved |
 | :--- | :---: |
@@ -61,7 +62,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 
 ---
 
-## 👨‍💻 A Bit About Me
+# 👨‍💻 A Bit About Me
 
 While I use C++ heavily for competitive programming and DSA, I am a versatile developer with a strong background in data-driven solutions and software engineering.
 
