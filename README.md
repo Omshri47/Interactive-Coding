@@ -69,15 +69,6 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0005-longest-palindromic-substring](https://github.com/Omshri47/Interactive-Coding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
 
-# 📊 Progress Tracker
-
-| Difficulty | Solved |
-| :--- | :---: |
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **0** |
-
 ---
 
 # 👨‍💻 A Bit About Me
