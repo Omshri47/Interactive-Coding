@@ -17,6 +17,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Omshri47/Interactive-Coding/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omshri47/Interactive-Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Omshri47/Interactive-Coding/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1929-concatenation-of-array) |
@@ -49,6 +50,14 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omshri47/Interactive-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omshri47/Interactive-Coding/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Omshri47/Interactive-Coding/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
 
 # 📊 Progress Tracker
