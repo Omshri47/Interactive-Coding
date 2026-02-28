@@ -30,6 +30,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | ------- |
 | [0001-two-sum](https://github.com/Omshri47/Interactive-Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omshri47/Interactive-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Omshri47/Interactive-Coding/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0002-add-two-numbers](https://github.com/Omshri47/Interactive-Coding/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Omshri47/Interactive-Coding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Omshri47/Interactive-Coding/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0006-zigzag-conversion](https://github.com/Omshri47/Interactive-Coding/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Omshri47/Interactive-Coding/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Omshri47/Interactive-Coding/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Omshri47/Interactive-Coding/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
