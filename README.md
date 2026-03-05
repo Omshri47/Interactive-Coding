@@ -18,6 +18,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | ------- |
 | [0001-two-sum](https://github.com/Omshri47/Interactive-Coding/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Omshri47/Interactive-Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Omshri47/Interactive-Coding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Omshri47/Interactive-Coding/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/Omshri47/Interactive-Coding/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1470-shuffle-the-array) |
@@ -79,6 +80,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Omshri47/Interactive-Coding/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Omshri47/Interactive-Coding/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,10 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Omshri47/Interactive-Coding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 
 ---
