@@ -65,10 +65,12 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0014-longest-common-prefix](https://github.com/Omshri47/Interactive-Coding/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Omshri47/Interactive-Coding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Omshri47/Interactive-Coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Omshri47/Interactive-Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Omshri47/Interactive-Coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Omshri47/Interactive-Coding/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Omshri47/Interactive-Coding/tree/master/0010-regular-expression-matching) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Omshri47/Interactive-Coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Trie
 |  |
 | ------- |
