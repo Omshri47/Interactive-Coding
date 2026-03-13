@@ -23,6 +23,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0485-max-consecutive-ones](https://github.com/Omshri47/Interactive-Coding/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1929-concatenation-of-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0009-palindrome-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Omshri47/Interactive-Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Omshri47/Interactive-Coding/tree/master/0013-roman-to-integer) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +77,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Omshri47/Interactive-Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,6 +105,11 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Omshri47/Interactive-Coding/tree/master/0011-container-with-most-water) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
 
 ---
