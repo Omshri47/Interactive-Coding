@@ -66,6 +66,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0013-roman-to-integer](https://github.com/Omshri47/Interactive-Coding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Omshri47/Interactive-Coding/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Omshri47/Interactive-Coding/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Omshri47/Interactive-Coding/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Omshri47/Interactive-Coding/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
@@ -101,6 +102,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Omshri47/Interactive-Coding/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Greedy
 |  |
 | ------- |
