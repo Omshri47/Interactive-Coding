@@ -48,6 +48,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0009-palindrome-number](https://github.com/Omshri47/Interactive-Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Omshri47/Interactive-Coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Omshri47/Interactive-Coding/tree/master/0013-roman-to-integer) |
+| [1622-fancy-sequence](https://github.com/Omshri47/Interactive-Coding/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
 |  |
@@ -112,6 +113,14 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Omshri47/Interactive-Coding/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Omshri47/Interactive-Coding/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
 
 ---
