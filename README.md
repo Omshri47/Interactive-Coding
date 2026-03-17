@@ -22,6 +22,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [0014-longest-common-prefix](https://github.com/Omshri47/Interactive-Coding/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/Omshri47/Interactive-Coding/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1470-shuffle-the-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Omshri47/Interactive-Coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Omshri47/Interactive-Coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1929-concatenation-of-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -110,6 +111,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Omshri47/Interactive-Coding/tree/master/0011-container-with-most-water) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Omshri47/Interactive-Coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -127,10 +129,12 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 ## Sorting
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Omshri47/Interactive-Coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Omshri47/Interactive-Coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Omshri47/Interactive-Coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Omshri47/Interactive-Coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Prefix Sum
 |  |
