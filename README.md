@@ -25,6 +25,7 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Omshri47/Interactive-Coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Omshri47/Interactive-Coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Omshri47/Interactive-Coding/tree/master/1929-concatenation-of-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Omshri47/Interactive-Coding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Omshri47/Interactive-Coding/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Simulation
 |  |
@@ -136,10 +137,12 @@ Regular practice is key to mastering algorithmic problem-solving. Here, I docume
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Omshri47/Interactive-Coding/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Omshri47/Interactive-Coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Omshri47/Interactive-Coding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Omshri47/Interactive-Coding/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Omshri47/Interactive-Coding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
 
 ---
