@@ -1,4 +1,4 @@
-# Prerequisites
+      # Prerequisites
 *.d
 
 # Compiled Object files
@@ -39,3 +39,43 @@
 
 # debug information files
 *.dwo
+
+
+# Java Files
+*.class
+*.jar
+*.war
+*.ear
+*.target/
+*.iml
+.idea/
+*.swp
+*.swo
+
+# Python Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+.venv
+ENV/
+env/
