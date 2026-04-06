@@ -7,7 +7,6 @@ class Solution(object):
         """
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
         
-        # Convert obstacles to a set of tuples for O(1) lookup
         obstacle_set = {tuple(obs) for obs in obstacles}
         
         x, y = 0, 0
@@ -19,10 +18,9 @@ class Solution(object):
                 direction_idx = (direction_idx + 1) % 4
             elif cmd == -2:  # Turn left
                 direction_idx = (direction_idx + 3) % 4
-            else:  # Move forward cmd steps
+            else:  
                 dx, dy = directions[direction_idx]
                 for _ in range(cmd):
-                    # Check if next step is an obstacle
                     if (x + dx, y + dy) in obstacle_set:
                         break
                     x += dx
