@@ -234,3 +234,15 @@ If you find this repository helpful, please consider:
 **Last Updated**: March 21, 2026
 
 *"The only way to master programming is by practicing consistently and learning from every problem." - Anonymous*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Omshri47/Interactive-Coding/tree/master/2069-walking-robot-simulation-ii) |
+## Simulation
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/Omshri47/Interactive-Coding/tree/master/2069-walking-robot-simulation-ii) |
+<!---LeetCode Topics End-->
