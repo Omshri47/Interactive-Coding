@@ -244,5 +244,14 @@ If you find this repository helpful, please consider:
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Omshri47/Interactive-Coding/tree/master/0258-add-digits) |
 | [2069-walking-robot-simulation-ii](https://github.com/Omshri47/Interactive-Coding/tree/master/2069-walking-robot-simulation-ii) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Omshri47/Interactive-Coding/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Omshri47/Interactive-Coding/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
